@@ -40,8 +40,8 @@
 ![1](https://github.com/vladichka288/Games/blob/main/Untitled%20Diagram%20(2).png)
 
 ## PG4 Screenshots
-![1](https://github.com/vladichka288/Games/blob/main/Game.jpg)
-![1](https://github.com/vladichka288/Games/blob/main/Team.jpg)
-![1](https://github.com/vladichka288/Games/blob/main/Match.jpg)
-![1](https://github.com/vladichka288/Games/blob/main/Score.jpg)
+![1](https://github.com/vladichka288/Games/blob/main/Game.jpg)<br/>
+![1](https://github.com/vladichka288/Games/blob/main/Team.jpg)<br/>
+![1](https://github.com/vladichka288/Games/blob/main/Match.jpg)<br/>
+![1](https://github.com/vladichka288/Games/blob/main/Score.jpg)<br/>
 ![1](https://github.com/vladichka288/Games/blob/main/Stadium.jpg)
