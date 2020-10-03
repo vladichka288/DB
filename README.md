@@ -34,10 +34,10 @@
 * One to 0ne: між Score та Team, Game та Score
    
 ## ER Diagram
-![1](https://github.com/theeverlong/AirportDatabase/blob/main/erd.png)
+![1](https://github.com/vladichka288/Games/edit/main/UntitledDiagram.png)
 
 ## DB Structure
-![1](https://github.com/theeverlong/AirportDatabase/blob/main/db.png)
+![1](https://github.com/vladichka288/Games/edit/main/UntitledDiagram(2).png)
 
 ## PG4 Screenshots
 ![1](https://user-images.githubusercontent.com/47531496/94867753-7f042080-044a-11eb-8525-6672d14e6205.png)
