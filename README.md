@@ -34,10 +34,10 @@
 * One to 0ne: між Score та Team, Game та Score
    
 ## ER Diagram
-![1](https://github.com/vladichka288/Games/edit/main/UntitledDiagram.png)
+![1](https://github.com/vladichka288/Games/edit/main/Untitled Diagram.png)
 
 ## DB Structure
-![1](https://github.com/vladichka288/Games/edit/main/UntitledDiagram(2).png)
+![1](https://github.com/vladichka288/Games/edit/main/Untitled Diagram (2).png)
 
 ## PG4 Screenshots
 ![1](https://user-images.githubusercontent.com/47531496/94867753-7f042080-044a-11eb-8525-6672d14e6205.png)
