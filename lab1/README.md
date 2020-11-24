@@ -40,6 +40,12 @@
 ![1](https://github.com/vladichka288/Games/blob/main/Untitled%20Diagram%20(2).png)
 
 ## PG4 Screenshots
-![1](https://user-images.githubusercontent.com/47531496/94867753-7f042080-044a-11eb-8525-6672d14e6205.png)
-![image](https://user-images.githubusercontent.com/47531496/94867790-90e5c380-044a-11eb-9d0f-e8a2b3be8530.png)
-![image](https://user-images.githubusercontent.com/47531496/94867818-a0650c80-044a-11eb-9260-993be1807f04.png)
+![1](https://github.com/vladichka288/Games/blob/main/Game.jpg)<br/>
+
+![1](https://github.com/vladichka288/Games/blob/main/Team.jpg)<br/>
+
+![1](https://github.com/vladichka288/Games/blob/main/Match.jpg)<br/>
+
+![1](https://github.com/vladichka288/Games/blob/main/Score.jpg)<br/>
+
+![1](https://github.com/vladichka288/Games/blob/main/Stadium.jpg)
